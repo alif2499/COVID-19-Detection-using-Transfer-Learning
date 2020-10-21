@@ -13,25 +13,25 @@ At this time, there are no specific vaccines or treatments for COVID-19. However
 # Symptoms:
 
 ### Most common symptoms:
-1.fever.
-2.dry cough.
-3.tiredness.
+- fever.
+- dry cough.
+- tiredness.
 
 ### Less common symptoms:
 
-1.aches and pains.
-2.sore throat.
-3.diarrhoea.
-4.conjunctivitis.
-5.headache.
-6.loss of taste or smell.
-7.a rash on skin, or discolouration of fingers or toes.
+- aches and pains.
+- sore throat.
+- diarrhoea.
+- conjunctivitis.
+- headache.
+- loss of taste or smell.
+- a rash on skin, or discolouration of fingers or toes.
 
 ### Serious symptoms:
 
-1.difficulty breathing or shortness of breath.
-2.chest pain or pressure.
-3.loss of speech or movement.
+- difficulty breathing or shortness of breath.
+- chest pain or pressure.
+- loss of speech or movement.
 
 
 # Prevention:
@@ -39,13 +39,13 @@ At this time, there are no specific vaccines or treatments for COVID-19. However
 
 To prevent infection and to slow transmission of COVID-19, do the following:
 
-1.Wash your hands regularly with soap and water, or clean them with alcohol-based hand rub.
-2.Maintain at least 1 metre distance between you and people coughing or sneezing.
-3.Avoid touching your face.
-4.Cover your mouth and nose when coughing or sneezing.
-5.Stay home if you feel unwell.
-6.Refrain from smoking and other activities that weaken the lungs.
-7.Practice physical distancing by avoiding unnecessary travel and staying away from large groups of people.
+- Wash your hands regularly with soap and water, or clean them with alcohol-based hand rub.
+- Maintain at least 1 metre distance between you and people coughing or sneezing.
+- Avoid touching your face.
+- Cover your mouth and nose when coughing or sneezing.
+- Stay home if you feel unwell.
+- Refrain from smoking and other activities that weaken the lungs.
+- Practice physical distancing by avoiding unnecessary travel and staying away from large groups of people.
 
 
 In this notebook, the COVID-19 detection is performed using the [COVID-19 Chest X-ray](https://www.kaggle.com/bachrr/covid-chest-xray) Image Dataset. The dataset contains chest X-ray images of normal and COVID-19 affected patients. Here, a convolutional neural network is adopted to extract features and classify images as normal and COVID-19 affected.
