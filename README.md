@@ -10,6 +10,7 @@ The best way to prevent and slow down transmission is be well informed about the
 The COVID-19 virus spreads primarily through droplets of saliva or discharge from the nose when an infected person coughs or sneezes, so it’s important that you also practice respiratory etiquette (for example, by coughing into a flexed elbow).
 
 At this time, there are no specific vaccines or treatments for COVID-19. However, there are many ongoing clinical trials evaluating potential treatments. WHO will continue to provide updated information as soon as clinical findings become available.
+![Coronavirus](download (1).png)
 # Symptoms:
 
 ### Most common symptoms:
