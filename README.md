@@ -1,4 +1,4 @@
-# COVID-19-Detection-using-Transfer-Learnin
+# COVID-19-Detection-using-Transfer-Learning
 
 ## COVID-19:
 Coronavirus disease (COVID-19) is an infectious disease caused by a newly discovered coronavirus.
