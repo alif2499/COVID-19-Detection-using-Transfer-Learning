@@ -16,7 +16,7 @@ At this time, there are no specific vaccines or treatments for COVID-19. However
 
 ### Most common symptoms:
 - fever.
-- dry cough.
+- dry cough
 - tiredness.
 
 ### Less common symptoms:
