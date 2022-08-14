@@ -1,4 +1,4 @@
-# COVID-19-Detection-using-Transfer-Learning.
+# COVID-19-Detection-using-Transfer-Learning
 
 
 ## COVID-19:
