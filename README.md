@@ -43,7 +43,7 @@ At this time, there are no specific vaccines or treatments for COVID-19. However
 To prevent infection and to slow transmission of COVID-19, do the following:
 
 - Wash your hands regularly with soap and water, or clean them with alcohol-based hand rub.
-- Maintain at least 1 metre distance between you and people coughing or sneezing.
+- Maintain at least 1-metre distance between you and people coughing or sneezing.
 - Avoid touching your face.
 - Cover your mouth and nose when coughing or sneezing.
 - Stay home if you feel unwell.
@@ -51,6 +51,8 @@ To prevent infection and to slow transmission of COVID-19, do the following:
 - Practice physical distancing by avoiding unnecessary travel and staying away from large groups of people.
 
 
-In this notebook, COVID-19 detection is performed using the [COVID-19 Chest X-ray](https://www.kaggle.com/bachrr/covid-chest-xray) Image Dataset. The dataset contains chest X-ray images of normal and COVID-19 affected patients. Here, a convolutional neural network is adopted to extract features and classify images as normal and COVID-19 affected.
+In this notebook, COVID-19 detection is performed using the [COVID-19 Chest X-ray](https://www.kaggle.com/bachrr/covid-chest-xray) Image Dataset. The dataset contains chest X-ray images of normal and COVID-19-affected patients. Here, a convolutional neural network is adopted to extract features and classify images as normal and COVID-19-affected.
+
+# Performance: Accuracy: 1.00, Precision: 1.00, Recall: 1.00, F1-score: 1.00
 
 ***If you face trouble loading the notebook, you can check it out here [COVID-19 detection using transfer learning](https://www.kaggle.com/alifrahman/covid-19-detection-using-transfer-learning)***
